@@ -1,3 +1,6 @@
+/* 
+	Written by Des Bylund and Haddocks Whiskey
+*/
 #include "SPI.h"
 #include "Cube.h"
 Cube cube;
